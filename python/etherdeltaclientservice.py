@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 #!/usr/bin/python3
 #
 # etherdeltaclientservice.py: EtherDelta API Client Service for python3 using websockets

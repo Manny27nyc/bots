@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const io = require('socket.io-client');
 const BigNumber = require('bignumber.js');
 const Web3 = require('web3');
